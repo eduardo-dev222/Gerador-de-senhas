@@ -1,0 +1,1 @@
+Este é um gerador de senhas, se voçê não consegue criar uma senha, use o meu gerador de senhas para te ajudar, nele voçê pode escolher senhas com ou sem numeros e caracteres, depois só copiar a senha e usa-la.
